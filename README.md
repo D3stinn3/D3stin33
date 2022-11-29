@@ -2,4 +2,4 @@
 Version Control
 
 ## Subheader
-Version conrol is management of code supremacy!
+Version conrol is code management
